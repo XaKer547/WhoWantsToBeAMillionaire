@@ -1,0 +1,36 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+    <LangVersion>preview</LangVersion>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Assets\bztv7n36.png" />
+    <None Remove="Assets\half.png" />
+    <None Remove="Assets\people.png" />
+    <None Remove="Seeder\Questions\questions_easy.json" />
+    <None Remove="Seeder\Questions\questions_hard.json" />
+    <None Remove="Seeder\Questions\questions_medium.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="CommunityToolkit.Mvvm" Version="8.2.2" />
+    <PackageReference Include="LiveCharts.Wpf" Version="0.9.7" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Assets\bztv7n36.png" />
+    <Resource Include="Assets\half.png" />
+    <Resource Include="Assets\people.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Seeder\Questions\questions_easy.json" />
+    <Resource Include="Seeder\Questions\questions_hard.json" />
+    <Resource Include="Seeder\Questions\questions_medium.json" />
+  </ItemGroup>
+
+</Project>

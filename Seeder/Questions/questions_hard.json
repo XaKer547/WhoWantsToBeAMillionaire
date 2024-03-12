@@ -1,0 +1,191 @@
+[
+  {
+    "Content": "Этот паттерн проектирования позволяет выносить внутреннее состояние объекта за его пределы для последующего возможного восстановления объекта без нарушения принципа инкапсуляции",
+    "Answers": [
+      {
+        "Content": "Хранитель",
+        "IsCorrect": true
+      },
+      {
+        "Content": "Фабричный метод",
+        "IsCorrect": false
+      },
+      {
+        "Content": "Прототип",
+        "IsCorrect": false
+      },
+      {
+        "Content": "Фасад",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Content": "В Гибралтарском проливе находится остров, который в античные времена никак нельзя было миновать при переправе. Этим ловко пользовались его жители, взимая со всех установленную плату. Как называется этот остров?",
+    "Answers": [
+      {
+        "Content": "Тариф",
+        "IsCorrect": true
+      },
+      {
+        "Content": "Суматра",
+        "IsCorrect": false
+      },
+      {
+        "Content": "Хонсю",
+        "IsCorrect": false
+      },
+      {
+        "Content": "Ява",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Content": "Каких отважных птиц, обладающих превосходным зрением, иногда использует полиция Китая вместо собак?",
+    "Answers": [
+      {
+        "Content": "Гуси",
+        "IsCorrect": true
+      },
+      {
+        "Content": "Соколы",
+        "IsCorrect": false
+      },
+      {
+        "Content": "Вороны",
+        "IsCorrect": false
+      },
+      {
+        "Content": "Цапли",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Content": "Чем был знаменит одноухий пёс, участвующий на выставке собак в Москве в 1945 году?",
+    "Answers": [
+      {
+        "Content": "Нашел 8000 мин",
+        "IsCorrect": true
+      },
+      {
+        "Content": "Был ранен на войне",
+        "IsCorrect": false
+      },
+      {
+        "Content": "Охранял границу",
+        "IsCorrect": false
+      },
+      {
+        "Content": "Ухо отвалилось само",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Content": "За что американская певица Марайя Керри получила в школе прозвище «Мираж»?",
+    "Answers": [
+      {
+        "Content": "Часто прогуливала уроки",
+        "IsCorrect": false
+      },
+      {
+        "Content": "Была очень худой",
+        "IsCorrect": true
+      },
+      {
+        "Content": "Всегда имела при себе воду в жару",
+        "IsCorrect": false
+      },
+      {
+        "Content": "Ее кожа сверкала при свете",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Content": "Кому посвящен индийский храм Шри Карни Мата, который охраняют мраморные львы и согласно легенде не пускают в храм кошек?",
+    "Answers": [
+      {
+        "Content": "Собакам",
+        "IsCorrect": false
+      },
+      {
+        "Content": "Крысам",
+        "IsCorrect": true
+      },
+      {
+        "Content": "Голубям",
+        "IsCorrect": false
+      },
+      {
+        "Content": "Морским свинкам",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Content": "Во что играл герой романа Ф.М. Достоевского «Игрок»?",
+    "Answers": [
+      {
+        "Content": "В домино",
+        "IsCorrect": false
+      },
+      {
+        "Content": "в рулетку",
+        "IsCorrect": true
+      },
+      {
+        "Content": "в покер",
+        "IsCorrect": false
+      },
+      {
+        "Content": "в дурака",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Content": "Для людей какой профессии начали производство шариковых ручек?",
+    "Answers": [
+      {
+        "Content": "Учителей",
+        "IsCorrect": false
+      },
+      {
+        "Content": "Врачей",
+        "IsCorrect": false
+      },
+      {
+        "Content": "Летчиков",
+        "IsCorrect": true
+      },
+      {
+        "Content": "Писателей",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Content": "Какой музыкальный инструмент Ф. Лист называл «королем музыкальных инструментов»?",
+    "Answers": [
+      {
+        "Content": "Рояль",
+        "IsCorrect": true
+      },
+      {
+        "Content": "Скрипка",
+        "IsCorrect": false
+      },
+      {
+        "Content": "Орган",
+        "IsCorrect": true
+      },
+      {
+        "Content": "Контрабасс",
+        "IsCorrect": false
+      }
+    ]
+  }
+]

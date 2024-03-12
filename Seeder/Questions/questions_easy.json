@@ -1,0 +1,170 @@
+[
+  {
+    "Content": "Какой цвет у морской воды?",
+    "Answers": [
+      {
+        "Content": "Синий",
+        "IsCorrect": true
+      },
+      {
+        "Content": "Красный",
+        "IsCorrect": false
+      },
+      {
+        "Content": "Жёлтый",
+        "IsCorrect": false
+      },
+      {
+        "Content": "Зелёный",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Content": "Какой звук издает кошка?",
+    "Answers": [
+      {
+        "Content": "Бее",
+        "IsCorrect": false
+      },
+      {
+        "Content": "Мяу",
+        "IsCorrect": true
+      },
+      {
+        "Content": "Гав",
+        "IsCorrect": false
+      },
+      {
+        "Content": "Ква-ква",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Answers": [
+      {
+        "Content": "3",
+        "IsCorrect": false
+      },
+      {
+        "Content": "8",
+        "IsCorrect": true
+      },
+      {
+        "Content": "6",
+        "IsCorrect": false
+      },
+      {
+        "Content": "5",
+        "IsCorrect": false
+      }
+    ],
+    "Content": "Сколько лап у паука?"
+  },
+  {
+    "Content": "Что обычно едят медведи в лесу?",
+    "Answers": [
+      {
+        "Content": "Рыбу",
+        "IsCorrect": true
+      },
+      {
+        "Content": "Пиццу",
+        "IsCorrect": false
+      },
+      {
+        "Content": "Мороженое",
+        "IsCorrect": false
+      },
+      {
+        "Content": "Хот-дог",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Content": "Как называется самая большая птица, которая умеет летать?",
+    "Answers": [
+      {
+        "Content": "Ворона",
+        "IsCorrect": false
+      },
+      {
+        "Content": "Альбатрос",
+        "IsCorrect": true
+      },
+      {
+        "Content": "Попугай",
+        "IsCorrect": false
+      },
+      {
+        "Content": "Воробей",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Content": "Какое время года следует за зимой?",
+    "Answers": [
+      {
+        "Content": "Весна",
+        "IsCorrect": true
+      },
+      {
+        "Content": "Лето",
+        "IsCorrect": false
+      },
+      {
+        "Content": "Осень",
+        "IsCorrect": false
+      },
+      {
+        "Content": "Зима",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Content": "Как называется устройство, показывающее время?",
+    "Answers": [
+      {
+        "Content": "Телевизор",
+        "IsCorrect": false
+      },
+      {
+        "Content": "Радио",
+        "IsCorrect": false
+      },
+      {
+        "Content": "Телефон",
+        "IsCorrect": false
+      },
+      {
+        "Content": "Часы",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Content": "В чём кенгуру переносит своих детей?",
+    "Answers": [
+      {
+        "Content": "В сумке",
+        "IsCorrect": true
+      },
+      {
+        "Content": "В пакете",
+        "IsCorrect": false
+      },
+      {
+        "Content": "В мешке",
+        "IsCorrect": false
+      },
+      {
+        "Content": "В тележке",
+        "IsCorrect": false
+      }
+    ]
+  }
+]

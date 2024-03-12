@@ -1,0 +1,191 @@
+[
+  {
+    "Content": "Какая планета является самой большой в Солнечной системе?",
+    "Answers": [
+      {
+        "Content": "Юпитер",
+        "IsCorrect": true
+      },
+      {
+        "Content": "Сатурн",
+        "IsCorrect": false
+      },
+      {
+        "Content": "Марс",
+        "IsCorrect": false
+      },
+      {
+        "Content": "Земля",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Content": "Кто написал “Приключения Алисы в стране чудес”?",
+    "Answers": [
+      {
+        "Content": "Льюис Кэрролл",
+        "IsCorrect": true
+      },
+      {
+        "Content": "Ганс Христиан Андерсен",
+        "IsCorrect": false
+      },
+      {
+        "Content": "Братья Гримм",
+        "IsCorrect": false
+      },
+      {
+        "Content": "Джонатан Свифт",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Content": "В каком месяце меньше всего дней в году?",
+    "Answers": [
+      {
+        "Content": "В январе",
+        "IsCorrect": false
+      },
+      {
+        "Content": "В феврале",
+        "IsCorrect": true
+      },
+      {
+        "Content": "В мае",
+        "IsCorrect": false
+      },
+      {
+        "Content": "В декабре",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Content": "Какое число является корнем уравнения x² - 1 = 0?",
+    "Answers": [
+      {
+        "Content": "1",
+        "IsCorrect": true
+      },
+      {
+        "Content": "2",
+        "IsCorrect": false
+      },
+      {
+        "Content": "0",
+        "IsCorrect": false
+      },
+      {
+        "Content": "Нет решения",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Content": "Как называется столица Франции?",
+    "Answers": [
+      {
+        "Content": "Берлин",
+        "IsCorrect": false
+      },
+      {
+        "Content": "Париж",
+        "IsCorrect": true
+      },
+      {
+        "Content": "Лондон",
+        "IsCorrect": false
+      },
+      {
+        "Content": "Мадрид",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Content": "Какой химический элемент обозначается символом Fe?",
+    "Answers": [
+      {
+        "Content": "Водород",
+        "IsCorrect": false
+      },
+      {
+        "Content": "Кислород",
+        "IsCorrect": false
+      },
+      {
+        "Content": "Углерод",
+        "IsCorrect": false
+      },
+      {
+        "Content": "Железо",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Content": "Как называется процесс перехода вещества из твердого состояния в жидкое?",
+    "Answers": [
+      {
+        "Content": "Агломерация",
+        "IsCorrect": false
+      },
+      {
+        "Content": "Плавление",
+        "IsCorrect": true
+      },
+      {
+        "Content": "Сублимация",
+        "IsCorrect": false
+      },
+      {
+        "Content": "Дистилляция",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Content": "Кто был первым президентом Соединённых Штатов Америки?",
+    "Answers": [
+      {
+        "Content": "Джон Ф. Кеннеди",
+        "IsCorrect": false
+      },
+      {
+        "Content": "Томас Джефферсон",
+        "IsCorrect": false
+      },
+      {
+        "Content": "Джордж Вашингтон",
+        "IsCorrect": true
+      },
+      {
+        "Content": "Авраам Линкольн",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Content": "Как называется линия, которая соединяет любые две точки окружности, эллипса или кривой?",
+    "Answers": [
+      {
+        "Content": "Бисектриса",
+        "IsCorrect": true
+      },
+      {
+        "Content": "Медиана",
+        "IsCorrect": false
+      },
+      {
+        "Content": "Хорда",
+        "IsCorrect": true
+      },
+      {
+        "Content": "Диагональ",
+        "IsCorrect": false
+      }
+    ]
+  }
+]
